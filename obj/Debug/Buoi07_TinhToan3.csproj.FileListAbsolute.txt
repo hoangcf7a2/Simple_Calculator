@@ -16,3 +16,13 @@ F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07
 F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Form1.resources
 F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
 F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.Cache
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\bin\Debug\Buoi07_TinhToan3.exe.config
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\bin\Debug\Buoi07_TinhToan3.exe
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\bin\Debug\Buoi07_TinhToan3.pdb
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.csproj.AssemblyReference.cache
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.Form1.resources
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.cache
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInputs.cache
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.exe
+E:\Học kì 1 năm 4\Kiểm thử phần mềm\Tuần 5\tuan5\obj\Debug\Buoi07_TinhToan3.pdb

@@ -36,3 +36,4 @@ D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResourc
 D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInputs.cache
 D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.exe
 D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.pdb
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.csproj.AssemblyReference.cache

@@ -27,24 +27,40 @@ namespace Buoi07_TinhToan3
 
         private void btnTinh_Click(object sender, EventArgs e)
         {
-            //lấy giá trị của 2 ô số
-            double so1, so2, kq = 0 ;
-            if (txtSo1.ToString().Contains(",") || txtSo2.ToString().Contains(","))
+            try
             {
-                 //throw new Exception("Kí tự không hợp lệ");
-                 MessageBox.Show("Kí tự không hợp lệ","Lỗi Đầu Vào",MessageBoxButtons.OK,MessageBoxIcon.Error);
-                 return;
+                //lấy giá trị của 2 ô số
+                double so1, so2, kq = 0;
+                if (txtSo1.ToString().Contains(",") || txtSo2.ToString().Contains(","))
+                {
+                    //throw new Exception("Kí tự không hợp lệ");
+                    MessageBox.Show("Kí tự không hợp lệ", "Lỗi Đầu Vào", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                so1 = double.Parse(txtSo1.Text);
+                so2 = double.Parse(txtSo2.Text);
+
+                //Thực hiện phép tính dựa vào phép toán được chọn
+                if (radCong.Checked) kq = so1 + so2;
+                else if (radTru.Checked) kq = so1 - so2;
+                else if (radNhan.Checked) kq = so1 * so2;
+                else if (radChia.Checked)
+                {
+                    if (so2 == 0)
+                    {
+                        MessageBox.Show("Kí tự không hợp lệ", "Lỗi Đầu Vào", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                    kq = so1 / so2;
+                }
+                //Hiển thị kết quả lên trên ô kết quả
+                txtKq.Text = kq.ToString();
             }
-            so1 = double.Parse(txtSo1.Text);
-            so2 = double.Parse(txtSo2.Text);
-            
-            //Thực hiện phép tính dựa vào phép toán được chọn
-            if (radCong.Checked) kq = so1 + so2;
-            else if (radTru.Checked) kq = so1 - so2;
-            else if (radNhan.Checked) kq = so1 * so2;
-            else if (radChia.Checked && so2 != 0) kq = so1 / so2;
-            //Hiển thị kết quả lên trên ô kết quả
-            txtKq.Text = kq.ToString();
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Lỗi hệ thống", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
 
         private void txtSo1_Click(object sender, EventArgs e)

@@ -16,3 +16,13 @@ F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07
 F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Form1.resources
 F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
 F:\18-19 HKII\18610SP\Kiem thu PM\Bai tap\BT4b\Buoi07_TinhToan3\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.Cache
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\bin\Debug\Buoi07_TinhToan3.exe.config
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\bin\Debug\Buoi07_TinhToan3.exe
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\bin\Debug\Buoi07_TinhToan3.pdb
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.csproj.SuggestedBindingRedirects.cache
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.Form1.resources
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.cache
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInputs.cache
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.exe
+E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.pdb

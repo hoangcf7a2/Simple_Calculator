@@ -37,3 +37,13 @@ D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInpu
 D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.exe
 D:\Code\KTPM\Simple Calculator\obj\Debug\Buoi07_TinhToan3.pdb
 E:\Learning\UNIVERSITY\nam 4 HK1\Testing\obj\Debug\Buoi07_TinhToan3.csproj.AssemblyReference.cache
+D:\Code\KTPM\final\bin\Debug\Buoi07_TinhToan3.exe.config
+D:\Code\KTPM\final\bin\Debug\Buoi07_TinhToan3.exe
+D:\Code\KTPM\final\bin\Debug\Buoi07_TinhToan3.pdb
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.csproj.AssemblyReference.cache
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.Form1.resources
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.Properties.Resources.resources
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.csproj.GenerateResource.cache
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.csproj.CoreCompileInputs.cache
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.exe
+D:\Code\KTPM\final\obj\Debug\Buoi07_TinhToan3.pdb

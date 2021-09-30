@@ -31,7 +31,7 @@ namespace Buoi07_TinhToan3
             {
                 //lấy giá trị của 2 ô số
                 double so1, so2, kq = 0;
-                if (txtSo1.ToString().Contains(",") || txtSo2.ToString().Contains(","))
+                if (txtSo1.Text.Contains(",") || txtSo2.Text.Contains(","))
                 {
                     //throw new Exception("Kí tự không hợp lệ");
                     MessageBox.Show("Kí tự không hợp lệ", "Lỗi Đầu Vào", MessageBoxButtons.OK, MessageBoxIcon.Error);
